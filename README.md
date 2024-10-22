@@ -1,31 +1,31 @@
 # infin-eon
 
-Hey there! 👋 I'm **infin-eon**, a passionate web developer who loves crafting websites and bringing creative ideas to life. I primarily work with **JavaScript**, **HTML**, **CSS**, and **PHP**, and I've got some solid experience with **SQL** too. 
+Hey there! 👋 I'm **infin-eon**, a passionate web developer who loves crafting websites and bringing creative ideas to life. I specialize in **JavaScript**, **HTML**, **CSS**, and **PHP**, with solid experience in **SQL** as well.
 
 ## 🚀 About Me
-I’ve been diving deep into the world of web development, experimenting with various projects and turning ideas into functioning web experiences. I enjoy pushing the boundaries of what’s possible on the web and constantly learning new tricks to make sites look stunning and work seamlessly.
+I'm a web enthusiast who enjoys pushing the boundaries of design and functionality. I’ve worked on various projects, bringing innovative ideas to life and learning new techniques to enhance user experience along the way.
 
-## 💻 My Tech Stack
+## 💻 Tech Stack
 - **Languages:** JavaScript, HTML, CSS, PHP
 - **Database:** SQL
-- **Tools & Frameworks:** Custom scripts, PHP-based web apps, Frontend animations, Server-side programming
+- **Tools:** Custom scripts, PHP-based web apps, frontend animations, server-side programming
 
 ## 🎓 School Projects
-I've been working on some big projects for my school, which include:
-- **Event Management Systems**: Streamlined ways for students and teachers to collaborate on school events.
-- **Media Platforms**: Built web solutions for journalism and yearbook teams to easily submit, manage, and showcase content.
-- **Slideshow & Photo Galleries**: Dynamic displays for school photos, complete with cool animations and user-friendly navigation.
+Some of my significant school projects include:
+- **Event Management Systems:** Tools for students and teachers to coordinate events effortlessly.
+- **Media Platforms:** Solutions for journalism and yearbook teams to submit, manage, and present content.
+- **Slideshow & Photo Galleries:** Dynamic displays for school photos with eye-catching animations.
 
 ## 🌱 Currently Learning
-- **Python**: Diving into Python to expand my skills and explore new opportunities in automation, data processing, and backend development.
-- Exploring modern frameworks like **React** and **Vue.js** to level up my frontend game.
-- Working with **API integration** for seamless back-and-forth communication between client and server.
+- **Python:** Expanding my skill set to explore automation, data processing, and backend development.
+- **Modern Frontend Frameworks:** Diving into **React** and **Vue.js** to level up my web development.
+- **API Integration:** Ensuring seamless communication between front-end and back-end.
 
-## 🛠️ Fun Stuff I'm Building
-I’ve got some ongoing projects that keep me busy:
-- **Rocklin Media Events**: An ongoing platform for students to showcase media projects and school events.
-- **Boxify**: A centralized system for yearbook and journalism teachers to organize events, photos, and competitions.
+## 🛠️ Projects
+Here are some things I'm currently working on:
+- **Rocklin Media Events:** A platform for students to share and showcase school media projects.
+- **Boxify:** A unified system for yearbook and journalism teachers to manage events, photos, and competitions.
 
 ---
 
-Thanks for checking out my work! Feel free to connect or collaborate. 🚀
+Thanks for stopping by! Feel free to connect and explore my projects. 🚀
