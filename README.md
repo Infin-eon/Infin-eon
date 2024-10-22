@@ -23,7 +23,6 @@ I've been working on some big projects for my school, which include:
 
 ## 🛠️ Fun Stuff I'm Building
 I’ve got some ongoing projects that keep me busy:
-- **Warden Bot**: A Discord bot that helps manage and protect servers.
 - **Rocklin Media Events**: An ongoing platform for students to showcase media projects and school events.
 - **Boxify**: A centralized system for yearbook and journalism teachers to organize events, photos, and competitions.
 
